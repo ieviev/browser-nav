@@ -19,7 +19,7 @@ Features:
 
 - left/right tab: changes the current browser tab to left/right
 - navigate back/forward: moves back/forward to last page visited
-- show available links: creates menu window for all links on the page
+- show available links: creates search window for all links on the page
 
 links menu binds:
 | key | action |
