@@ -20,8 +20,8 @@ Features:
 - navigate back/forwards: moves back/forward to last page visited
 - show available links: creates menu window for all links on the page
 
-links menu keybinds:
-| shortcut | action |
+links menu binds:
+| key | action |
 | - | - |
 | up/down | position +/- 1 |
 | left/right | position +/- 7 |
