@@ -1,0 +1,59 @@
+html,
+body,
+#app {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+#search-modal {
+    width: 40vw;
+    max-width: 30em;
+    position: fixed;
+    top: 27%;
+    left: 50%;
+    transform: translate(-40%, 0%);
+    background-color: #0d1117a7;
+    color: white;
+}
+
+.modal-content {
+    position: relative;
+}
+
+#search-modal-input {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+    width: 80%;
+    background: transparent;
+    color: white;
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none;
+}
+
+#search-modal-results {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 20em;
+    scrollbar-color: rgb(76, 76, 76) rgba(0, 0, 0, 0);
+    scrollbar-width: thin;
+    padding: 10px 15px;
+}
+
+#search-modal-results>div.selected {
+    background-color: rgba(92, 114, 242, 0.781);
+}
+
+
+.highlight-box {
+    position: absolute;
+    border-color: #ff4500;
+    box-shadow: 0 6px 6px #ff4400b6;
+    transition: border 0.3s ease, box-shadow 0.3s ease;
+}
