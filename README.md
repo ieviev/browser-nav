@@ -36,7 +36,7 @@ go to either `chrome://extensions/` on chromium or `about:addons` and Extensions
 
 #### Rant
 
-After endless browser hopping between chromium, blue firefox, vivaldi, qutebrowser, zen, brave, librewolf, waterfox or whatever i learned that what i need doesnt have to be built in the browser at all. All i do every single day is look up documentation and the main problem i have with the humble web browser is that it's just not designed for user experience. There's so many different browsers out there but very few of them touch anything except the visuals or hardening privacy. So this is a solution to that that works across all browsers. Also an added feature perhaps (relative to other browsers) is that i'm not trying to sell you anything and this is just something i found useful. You're welcome!
+After endless browser hopping between chromium, blue firefox, vivaldi, qutebrowser, zen, brave, librewolf, waterfox or whatever i learned that what i need doesn't have to be built in the browser at all. All i do every single day is look up documentation and the main problem i have with the humble web browser is that it's just not designed for user experience. There's so many different browsers out there but very few of them touch anything except the visuals or hardening privacy. So this is a solution to that that works across all browsers. Also an added feature perhaps (relative to other browsers) is that i'm not trying to sell you anything and this is just something i found useful. You're welcome!
 
 #### Building from source
 
